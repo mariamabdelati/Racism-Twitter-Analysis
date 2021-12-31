@@ -1,2 +1,2 @@
-# Twitter_analysis_ML
-supervised ML project to detect racism &amp; sexism in tweets
+# Racism Twitter Analysis
+supervised machine learning project using logistic regressionto detect racism &amp; sexism in tweets
